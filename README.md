@@ -47,3 +47,6 @@ Here are some ideas to get you started:
   - Social Media Icons Slideshow: https://github.com/soeweiyan-phyo/social-media-icons-slideshow
   - Sign In Sign Up Form: https://github.com/soeweiyan-phyo/signin-signup-form
   - Calendar: https://github.com/soeweiyan-phyo/calendar (IN PROGRESS)
+
+**PYTHON**
+- Youtube Downloader GUI: https://github.com/soeweiyan-phyo/python-youtube-video-downloader-gui
