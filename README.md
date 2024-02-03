@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 
 ### PYTHON
 - [Youtube Downloader GUI](https://github.com/soeweiyan-phyo/python-youtube-video-downloader-gui)
+- [Online Chat App](https://github.com/soeweiyan-phyo/python-online-chat-app) (IN PROGRESS)
