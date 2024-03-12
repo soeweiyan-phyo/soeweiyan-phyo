@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/soeweiyan-phyo/soeweiyan-phyo/output/snake.svg" alt="Snake animation" />
 
 # My Projects
